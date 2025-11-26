@@ -1,3 +1,5 @@
+(Check Gameplay photo for visual)
+
 Crossy Squirrel is a fun, interactive game where the player controls a squirrel that needs to cross multiple lanes filled with dangers such as speeding wolves and flowing rivers. 
 Players navigate using arrow keys, dodge obstacles, and hop onto boats to cross treacherous waters. Acorns randomly appear, granting power-ups that either help or challenge the player.
 
